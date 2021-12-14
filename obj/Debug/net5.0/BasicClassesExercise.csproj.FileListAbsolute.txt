@@ -1,0 +1,5 @@
+C:\Users\antho\repos\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.csproj.AssemblyReference.cache
+C:\Users\antho\repos\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.AssemblyInfoInputs.cache
+C:\Users\antho\repos\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.AssemblyInfo.cs
+C:\Users\antho\repos\BasicClassesExercise\obj\Debug\net5.0\BasicClassesExercise.csproj.CoreCompileInputs.cache
